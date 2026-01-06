@@ -16,7 +16,7 @@ An up to date version of this syllabus can be found at: https://aphid.github.io/
 *   **Teaching Assistant:** 
     *   **Name:** Lilly Selzer (she/her)
     *   **Email:** [lselzer@ucsc.edu](mailto: lselzer@ucsc.edu)
-    *   **Office Hours:** TBD
+    *   **Office Hours:** Thurs from 10-11. *link tbd*
 
 
 
@@ -71,6 +71,8 @@ Aside from your computer, none of the resources needed for this class should cos
     * **[p5js reference](https://p5js.org/reference/)** reference for p5js methods, properties, libraries, &c.
     * **[MDN](https://developer.mozilla.org/en-US/)** my preferred documentation for HTML5/CSS/JS features. Generally better than w3schools but your mileage may vary
     * **[can i use](https://caniuse.com/)** tracks new features in CSS, JS, DOM and what/when/how different browsers have implemented them
+    * **[Rhizome ArtBase](https://artbase.rhizome.org/wiki/Main_Page)** A collection of born-digital artworks.
+
 
 
 ## Student Responsibilities
@@ -80,6 +82,10 @@ Aside from your computer, none of the resources needed for this class should cos
 Attendance will be taken at class meetings. Your presence is expected and required. Coding is very often done in isolation. One of the benefits of this class is the experience of sharing and engaging with each other's work, collaborating on projects (optionally), and helping each other when we end up out in the weeds with a technical or conceptual problem. Participation can also happen in the class chatroom (on matrix) during or outside of set course times. 
 
 **More than two unexcused absences will impact your grade.** 
+
+### Readings & Resources
+
+I've included some short readings that give important context to the tools and techniques we're looking at. I've also assigned videos, most of which are from Dan Schiffman's Coding Train. These videos are more for reference; if you learn well from watching this kind of thing and appreciate them, by all means watch them all. But if you learn better from experimentation or reading documentation, do what works for you (the videos will always be there if you need to reinforce a concept). 
 
 ### Participation
 
@@ -136,35 +142,52 @@ We will be meeting twice a week on zoom. We'll be spending about half the time l
 
 The general arc of the class will be 4 weeks of p5js and 6 weeks of JavaScript (and the HTML5 DOM).
 
-Nex quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be working with some server-side code.
+Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be working with some server-side code.
 
 ## Week 1: **function setup()** p5js (Jan 5-11)
 
 *   **Readings/Viewings**
     * Read: 
-        * "Picked Last" by Dorothy R. Santos, from the [Processing Community Catalog](https://archive.org/details/processing-community-catalog-2021)
-        * "Introduction" by Golan Levin and Tega Brain, from _Coding as Creative Medium_
+        * "Picked Last" by Dorothy R. Santos, from the _Processing Community Catalog_ (pg 81-82)
+        * "Introduction" by Golan Levin and Tega Brain, from _Coding as Creative Medium_ (pg 1-13)
     * Video Tutorials (via The Coding Train):
         * [Code: Programming with P5.js](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/1-intro/1-intro) (optional, introductory)
         * [p5.js editor](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/1-intro/2-web-editor)
-
+        * [Errors and Console](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/1-intro/5-errors) (yes this is out of order, that's intentional)
 
 *   **Tuesday**: Welcome, introducing course subjects, themes, tools needed.
-*   **Thursday**: Discussing "Picked Last" (Santos) and "Introduction" (Levin and Brain), p5js intro
+*   **Thursday**: Discussing "Picked Last" (Santos) and "Introduction" (Levin and Brain), p5js intro (variables, setup/draw)
 *   **Sunday**:  
     * Due: Weekly documentation/reflection.
 
 
-## Week 2: **noise()** p5js (continued) (Jan 12-18)
-*   **Tuesday**: Troubleshooting, drawing, logic
-*   **Thursday**: patterns, functions
+## Week 2: **point()** p5js (continued) (Jan 12-18)
+
+*   **Readings/Viewings**
+    * Read: 
+        * "When Things Go Wrong", in _Coding as Creative Medium_ (pg 216-219)
+        * "Making p5.js" by Lauren Lee McCarthy, in the _Processing Community Catalog_ (pg 57-58 )
+    * Video Tutorials (via The Coding Train):
+        * [Shapes and Drawing](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/1-intro/3-shapes-drawing)
+        * [Color](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/1-intro/3-shapes-drawing)
+        * [While & For loops](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/4-loops/1-while-for)
+*   **Tuesday**: troubleshooting, drawing
+*   **Thursday**: discussing "Making p5.js", color, beginning of iteration
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
 
 
-## Week 3: **rotate()** p5js (continued) (Jan 26 - Feb 1)
-*   **Tuesday**: coordinates
-*   **Thursday**: functions
+## Week 3: **noise()** p5js (continued) (Jan 26 - Feb 1)
+*   **Readings/Viewings**
+    * Read:
+        * "Iteration" in _Coding as Creative Medium_ (pg 153-154)
+    * Video Tutorials (via The Coding Train):
+        * [Nesting loops](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/4-loops/2-nested)
+        * [Functions](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/5-functions/1-basics)
+        * [Conditional Statements](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/3-conditionals/1-conditionals)
+        *   
+*   **Tuesday**: more iteration and logic
+*   **Thursday**: custom functions
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
     * Due: Assignment (any of four)
@@ -174,19 +197,35 @@ Nex quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be worki
 *   **Thursday**: data (continued)
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
+
+## Week 5: \<!doctype html\> js & dom (Jan 26 - Feb 1)
+*   **Tuesday**: DOM crash course
+*   **Thursday**: more js
+*   **Sunday**: 
+    * Due: Weekly documentation/reflection.
     * Due: Assignment (any of four)
 
-## Week 5: <!doctype html> js & dom (Jan 26 - Feb 1)
+
+## Week 6: \<video\> js & dom (Jan 26 - Feb 1)
 *   **Tuesday**: DOM crash course
 *   **Thursday**: more js
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
 
-## Week 6: <video> js & dom (Jan 26 - Feb 1)
+
+## Week 7: const ; TBD (Jan 26 - Feb 1)
 *   **Tuesday**: DOM crash course
 *   **Thursday**: more js
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
+
+
+## Week 8: \<marquee\> TBD (Jan 26 - Feb 1)
+*   **Tuesday**: DOM crash course
+*   **Thursday**: more js
+*   **Sunday**: 
+    * Due: Weekly documentation/reflection.
+
 
 
 
