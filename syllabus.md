@@ -10,9 +10,9 @@ An up to date version of this syllabus can be found at: https://aphid.github.io/
 ## Instructor Information
 
 *   **Instructor:** 
-    *   **Name:** Abram Stern (they/he)
+    *   **Name:** Abram Stern, Ph.D. (they/he)
     *   **Email:** [aphid@ucsc.edu](mailto:aphid@ucsc.edu)
-    *   **Office Hours:** TBD
+    *   **Office Hours:** Tues from 3:05-4:05 (and ad-hoc on Matrix)
 *   **Teaching Assistant:** 
     *   **Name:** Lilly Selzer (she/her)
     *   **Email:** [lselzer@ucsc.edu](mailto: lselzer@ucsc.edu)
@@ -90,7 +90,7 @@ I've included some short readings that give important context to the tools and t
 
 ### Participation
 
-The most obvious opportunity for participation is during our course discussions and critiques during class meetings (whether vocally or using the chat), however participation can also occur in our online spaces.
+The most obvious opportunity for participation is during our course exercises, discussions and critiques during class meetings (whether vocally or using the chat), however participation can also occur in our online spaces.
 
 ### Camera Policy
 
@@ -101,6 +101,8 @@ When coworking (something we'll be doing quite a bit of), you don't need to shar
 ## Course Assignments
 
 There are four assignments in the course, which are due week 3, week 5, week 7, and week 10. The order in which you complete the assignments is up to you. There is also a final exam.
+
+In addition to assignments there are ungraded exercises that build from resources (videos, talkthroughs, and readings) and in-class lectures/demonstrations. While exercises are ungraded, they can  constitute a portion of your participation grade.
 
 ### Weekly Documentation/Reflections
 
