@@ -72,6 +72,7 @@ Aside from your computer, none of the resources needed for this class should cos
     * **[MDN](https://developer.mozilla.org/en-US/)** my preferred documentation for HTML5/CSS/JS features. Generally better than w3schools but your mileage may vary
     * **[can i use](https://caniuse.com/)** tracks new features in CSS, JS, DOM and what/when/how different browsers have implemented them
     * **[Rhizome ArtBase](https://artbase.rhizome.org/wiki/Main_Page)** A collection of born-digital artworks.
+    * **[The Book of Shaders](https://thebookofshaders.com/)** useful for shader programming, which is its own deep rabbit hole.
 
 
 
