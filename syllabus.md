@@ -218,7 +218,7 @@ Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be work
 *   **Thursday**: more js
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
-
+    * Due: Assignment (any of four)
 
 ## Week 8: \<marquee\> TBD (Feb 23 - Mar 1)
 *   **Tuesday**: DOM crash course
@@ -237,11 +237,52 @@ Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be work
 *   **Thursday**: more js
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
+    * Due: Assignment (any of four)
+
 
 ## Finals Week: Wednesday, Mar 18 12:00–3:00 p.m.
 *   **Oral exams, signups TBD**
 
 
+-----
+
+#### DRC Accommodations
+
+UC Santa Cruz is committed to creating an academic environment that supports its diverse student body. If you are a student with a disability who requires accommodations to achieve equal access in this course, please submit your Accommodation Authorization Letter from the Disability Resource Center (DRC) to me privately during my office hours or by appointment, preferably within the first two weeks of the quarter. At this time, we would also like us to discuss ways we can ensure your full participation in the course. We encourage all students who may benefit from learning more about DRC services to contact DRC by phone at 831-459-2089 or by email at drc@ucsc.edu. More information on disability and accommodation resources may be found at <http://ada.ucsc.edu/>.
+ 
+#### Academic Integrity & Intellectual Property
+
+Academic integrity in the arts requires transparency about your process in producing creative work, scholarship, and other responses to course materials and assignments. When any student makes false or misleading claims regarding their roles in authorship, participation, engagement, and other forms of work, they will be subject to the University’s Academic Misconduct policies and procedures. All students should familiarize themselves with University policy on these topics, including information at <https://ue.ucsc.edu/academic-misconduct.html>. When in doubt about the meaning and/or application of these policies in this course, students are responsible to seek answers via direct communication with the instructor. If you aren't sure, just ask!
+ 
+The materials in this course are the intellectual property of their creators. As a student, you have access to many of the materials in the course for the purpose of learning, engaging with your peers in the course, completing assignments, and so on. You have a moral and legal obligation to respect the rights of others by only using course materials for purposes associated with the course. For instance, you are not permitted to share, upload, stream, sell, republish, share the login information for, or otherwise disseminate any of the course materials, such as: video and audio files, assignment prompts, slides, notes, syllabus, simulations, datasets, discussion threads. Conversely, any materials created solely by you (for example, your videos, essays, images, audio files, annotations, notes) are your intellectual property and you may use them as you wish.
+ 
+#### Title IX
+
+Title IX prohibits gender discrimination, including sexual harassment, domestic and dating violence, sexual assault, and stalking. If you have experienced sexual harassment or sexual violence, you can receive confidential support and advocacy at the Campus Advocacy Resources & Education (CARE) Office by calling (831) 502-2273. In addition, Counseling & Psychological Services (CAPS) can provide confidential counseling support, (831) 459-2628. You can also report gender discrimination directly to the University’s Title IX Office, (831) 459-2462. Reports to law enforcement can be made to UCPD (831) 459-2231 ext. 1. For emergencies call 911.
+ 
+Faculty and Teaching Assistants are required under the UC Policy on Sexual Violence and Sexual Harassment to inform the Title IX Office should they become aware that you or any other student has experienced sexual violence or sexual harassment. Although I have to make that notification, you will control how your case will be handled, including whether or not you wish to pursue a formal complaint. The goal is to make sure that you are aware of the range of options available to you and that you have access to the resources you need.
+ 
+#### Justice, Equity, Inclusion
+Numerous campus resources offer support and grievance channels for students concerned about potential injustice, inequity, or exclusionary practices. The Office of Diversity, Equity, and Inclusion <https://diversity.ucsc.edu/index.html> provides resources for students experiencing or observing discrimination, and assists campus partners in cultivating a healthy campus climate in which all students, staff and faculty are treated respectfully and able to thrive and succeed; and everyone including current affiliates, alumni, supporters and community members is welcomed.Students concerned about bias, exclusion, or discrimination may report potential instances at <https://biasresponse.ucsc.edu/>. Please consult resources at the Title IX Office (see above) to report or raise concerns about gender discrimination or harassment, violence, or bullying on the basis of gender and sexuality; the CARE Office <https://care.ucsc.edu/> offers additional resources for survivors of gender- and sexuality-based violence and harassment. The Arts Division is committed to powerful outcomes in the pursuit of justice, equity, and inclusion; more information about those commitments is at <https://arts.ucsc.edu/page/arts-division-diversity-equity-and-inclusion-dei-statement>.
+ 
+#### Harassment, bias, and bullying
+The University of California, Santa Cruz expressly prohibits students from engaging in conduct constituting unlawful discrimination, harassment or bias. In keeping with the UCSC Principles of Community, we expect students and their guests to refrain from any acts or behaviors that are directed at other members of the campus community, and that result in unlawful discrimination, harassment or bias for an individual or group, and/or that substantially disrupt University operations or interfere with the rights of others. The campus does not seek to limit freedom of speech but rather strives to ensure that all members of the campus community are able to participate in University programs and activities to the fullest extent possible.
+ 
+#### Anti-Racism and Racial Justice
+Students encountering, or concerned about, racial injustice, race-based harassment or discrimination, or race-based hate speech and action should make reports to <https://biasresponse.ucsc.edu>, and may wish to consult additional campus anti-racism resources at <https://diversity.ucsc.edu/committees-and-initiatives/antiracism.html>. Creative Technologies is committed to measurable, and accountable action against direct and systemic racism, including specific resources to mitigate and combat anti-black racism. Campus resources and communities in which to cultivate that work include the UC Santa Cruz Center for Racial Justice <https://crjucsc.com/news-and-events
+Links to an external site.>, the Music Department's Justice, Access, Equity, and Diversity Committee, tasked with specific racial justice measures outlined here <https://music.ucsc.edu/news/initiatives-and-commitments-toward-racial-justice>. We welcome students to bring concerns and hold accountable the departments of Performance Play and Design; Music; and Art, in pursuit of direct contributions to anti-racism in the Creative Technologies curriculum and community.
+ 
+#### Educational Opportunity Programs
+UC Santa Cruz Office of Educational Opportunity Programs (EOP) aims to provide robust support to 'first-generation', low-income, and socioeconomically underserved students, and other students from historically marginalized backgrounds, toward attainment of academic, professional, and personal goals, and to cultivate broad higher-education accessibility, and leadership opportunities among those students. More information is available at <https://eop.ucsc.edu/>, and at <https://firstgen.ucsc.edu/index.html>.
+ 
+#### All-gender restrooms
+Many students at UCSC face personal challenges or have psychological needs that may interfere with their academic progress, social development, or emotional wellbeing. The university offers a variety of confidential services to help you through difficult times, including individual and group counseling, crisis intervention, consultations, online chats, and mental health screenings. These services are provided by staff who welcome all students and embrace a philosophy respectful of clients’ cultural and religious backgrounds, and sensitive to differences in race, ability, gender identity and sexual orientation.
+ 
+#### Slug Support Program
+College can be a challenging time for students and during times of stress it is not always easy to find the help you need. Slug Support can give help with everything from basic needs (housing, food, or financial insecurity) to getting the technology you need during remote instruction. To get started with SLUG Support, please contact the Dean of Students Office at 831-459-4446 or you may send us an email at deanofstudents@ucsc.edu.
+ 
+#### Slug help / Crisis Services
+For all other help and support, including the health center and emergency services, start here: <https://basicneeds.ucsc.edu/crisis-resolution/crisis-contacts.html>. Always dial 9-1-1 in the case of an emergency.
 
 
 
