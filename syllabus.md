@@ -59,14 +59,14 @@ Aside from your computer, none of the resources needed for this class should cos
     * [Aesthetic Programming](https://www.openhumanitiespress.org/books/titles/aesthetic-programming/) by Winnie Soon and Geoff Cox
     * [The Coding Train](https://thecodingtrain.com/tracks/code-programming-with-p5-js) by Dan Schiffman (p5js track)
 *   **Software:** 
-    * A text editor or IDE (e.g., VS Codium/VS Code, Sublime Text) 
-    * Media editing tools (e.g., GIMP, Audacity, Adobe Suite)
-    * A web browser (e.g., Firefox, Chrome, Safari, Brave)
-    * A matrix client to connect to the chat room (use browser, element, fluffychat, etc.)
+    * A text editor or IDE (e.g., [VSCodium](https://vscodium.com/)🐧
+/[VSCode](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/)) 
+    * Media editing tools (e.g., [GIMP](https://www.gimp.org/)🐧, [Audacity](https://www.audacityteam.org/)🐧, Adobe Suite)
+    * A web browser (e.g., Firefox🐧, Chrome, Safari, Brave🐧, Opera, ...)
+    * A matrix client to connect to the chat room (element🐧, fluffychat🐧, etc.)
 *   **Services:**
-    * [p5js editor](https://editor.p5js.org/)
-    * A git account (e.g., [GitHub](https://github.com), [GitLab](https://gitlab.com/), etc.)
-    * Matrix.org
+    * [p5js editor](https://editor.p5js.org/)🐧
+    * A git account (e.g., [GitHub](https://github.com), [GitLab](https://gitlab.com/)🐧, etc.)
 *   **Recommended Resources**
     * **[p5js reference](https://p5js.org/reference/)** reference for p5js methods, properties, libraries, &c.
     * **[MDN](https://developer.mozilla.org/en-US/)** my preferred documentation for HTML5/CSS/JS features. Generally better than w3schools but your mileage may vary
