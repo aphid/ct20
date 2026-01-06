@@ -73,7 +73,7 @@ Aside from your computer, none of the resources needed for this class should cos
     * **[can i use](https://caniuse.com/)** tracks new features in CSS, JS, DOM and what/when/how different browsers have implemented them
     * **[Rhizome ArtBase](https://artbase.rhizome.org/wiki/Main_Page)** A collection of born-digital artworks.
     * **[The Book of Shaders](https://thebookofshaders.com/)** useful for shader programming, which is its own deep rabbit hole.
-    * **[Esoteric Codes]**(https://esoteric.codes/about/) a resource developed by Daniel Temkin that catalogs esoteric programming langauges
+    * **[Esoteric Codes](https://esoteric.codes/about/)** a resource developed by Daniel Temkin that catalogs esoteric programming langauges
 
 
 ## Student Responsibilities
