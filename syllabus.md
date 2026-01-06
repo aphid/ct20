@@ -198,7 +198,7 @@ Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be work
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
 
-## Week 5: \<!doctype html\> js & dom (Jan 26 - Feb 1)
+## Week 5: \<!doctype html\> js & dom (Feb 2 - Feb 8)
 *   **Tuesday**: DOM crash course
 *   **Thursday**: more js
 *   **Sunday**: 
@@ -206,26 +206,40 @@ Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be work
     * Due: Assignment (any of four)
 
 
-## Week 6: \<video\> js & dom (Jan 26 - Feb 1)
+## Week 6: \<video\> js & dom (Feb 9 - Feb 15)
 *   **Tuesday**: DOM crash course
 *   **Thursday**: more js
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
 
 
-## Week 7: const ; TBD (Jan 26 - Feb 1)
+## Week 7: const ; TBD (Feb 16 - Feb 21)
 *   **Tuesday**: DOM crash course
 *   **Thursday**: more js
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
 
 
-## Week 8: \<marquee\> TBD (Jan 26 - Feb 1)
+## Week 8: \<marquee\> TBD (Feb 23 - Mar 1)
+*   **Tuesday**: DOM crash course
+*   **Thursday**: more   js
+*   **Sunday**: 
+    * Due: Weekly documentation/reflection.
+
+## Week 9: ??? TBD (Mar 2 - Mar 8)
 *   **Tuesday**: DOM crash course
 *   **Thursday**: more js
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
 
+## Week 10: ??? TBD (Mar 9 - Mar 15)
+*   **Tuesday**: DOM crash course
+*   **Thursday**: more js
+*   **Sunday**: 
+    * Due: Weekly documentation/reflection.
+
+## Finals Week: Wednesday, Mar 18 12:00–3:00 p.m.
+*   **Oral exams, signups TBD**
 
 
 
