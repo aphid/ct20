@@ -58,7 +58,7 @@ Aside from your computer, none of the resources needed for this class should cos
     * [Code as Creative Medium]() by Golan Levin and Tega Brain
     * [Aesthetic Programming](https://www.openhumanitiespress.org/books/titles/aesthetic-programming/) by Winnie Soon and Geoff Cox
     * [The Coding Train](https://thecodingtrain.com/tracks/code-programming-with-p5-js) by Dan Schiffman (p5js track)
-*   **Software:** 
+*   **Software:** (🐧 denotes open source)
     * A text editor or IDE (e.g., [VSCodium](https://vscodium.com/)🐧
 /[VSCode](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/)) 
     * Media editing tools (e.g., [GIMP](https://www.gimp.org/)🐧, [Audacity](https://www.audacityteam.org/)🐧, Adobe Suite)
