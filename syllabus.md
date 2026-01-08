@@ -134,9 +134,10 @@ _Prompt from **Code as Creative Medium** by Golan Levin and Tega Brain_ **(my ed
 
 Take an existing media object or artwork and, using code, transform it in signficant ways that make it your own. This can involve (mis)translation, parody, collage, excerpting, recontextualization, and/or justaposition.
 
-### Research
 
-Select an existing work of creative code that was made prior to 2021 and in  approximately 1000 words, analyze the work. This analysis should include some understanding (through looking at source code if available, and/or informed speculation) the mechanics of the software in addition to the piece's meaning and how you experienced it. You are welcome to include screenshots. Please format this research in the markdown (.md) format. (You may also choose to 'recombine' this work for that assignment)
+### ~~Research~~
+
+~~Select an existing work of creative code that was made prior to 2021 and in  approximately 1000 words, analyze the work. This analysis should include some understanding (through looking at source code if available, and/or informed speculation) the mechanics of the software in addition to the piece's meaning and how you experienced it. You are welcome to include screenshots. Please format this research in the markdown (.md) format. (You may also choose to 'recombine' this work for that assignment)~~ **Note: This assignment will be moved to an in-class exercise later in the quarter.**
 
 ### ???
 
@@ -204,20 +205,20 @@ Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be work
 *   **Thursday**: custom functions
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
-    * Due: Assignment (any of four)
 
 ## Week 4: **loadJSON()** p5js (continued) (Jan 26 - Feb 1)
 *   **Tuesday**: data
 *   **Thursday**: data (continued)
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
+    * Due: Assignment (any of four)
+
 
 ## Week 5: \<!doctype html\> js & dom (Feb 2 - Feb 8)
 *   **Tuesday**: DOM crash course
 *   **Thursday**: more js
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
-    * Due: Assignment (any of four)
 
 
 ## Week 6: \<video\> js & dom (Feb 9 - Feb 15)
