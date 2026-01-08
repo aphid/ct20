@@ -1,11 +1,11 @@
-# Introduction to Creative Code
+# Introduction to Creative Coding
 
 An up to date version of this syllabus can be found at: https://aphid.github.io/ct20/syllabus.html 
 
 * **Term:** Winter 2026
 * **Meeting Times:** Tu/Th, 1:30 PM - 3:05 PM
-* **Location:** Zoom
-* **Course Chatroom:** TBD
+* **Location:** [Zoom](https://canvas.ucsc.edu/courses/89850/external_tools/6680)
+* **Course Chatroom:** [info/link here](https://canvas.ucsc.edu/courses/89850/modules/items/1881196)
 
 ## Instructor Information
 
