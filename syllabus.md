@@ -1,6 +1,10 @@
 # Introduction to Creative Coding
 
-An up to date version of this syllabus can be found at: https://aphid.github.io/ct20/syllabus.html 
+An up to date version of this syllabus can be found at: https://aphid.github.io/ct20/syllabus.html. 
+
+**📆📆📆 [JUMP TO THE SCHEDULE](#course-schedule) 📆📆📆**
+
+## Course Info
 
 * **Term:** Winter 2026
 * **Meeting Times:** Tu/Th, 1:30 PM - 3:05 PM
@@ -15,7 +19,7 @@ An up to date version of this syllabus can be found at: https://aphid.github.io/
     *   **Office Hours:** Tues from 3:05-4:05 (and ad-hoc on Matrix)
 *   **Teaching Assistant:** 
     *   **Name:** Lilly Selzer (she/her)
-    *   **Email:** [lselzer@ucsc.edu](mailto: lselzer@ucsc.edu)
+    *   **Email:** [lselzer@ucsc.edu](mailto:lselzer@ucsc.edu)
     *   **Office Hours:** Thurs from 10-11. **link tbd**
 
 ## Quick Links
