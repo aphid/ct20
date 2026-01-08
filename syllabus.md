@@ -169,7 +169,7 @@ Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be work
         * [Errors and Console](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/1-intro/5-errors) (yes this is out of order, that's intentional)
 
 *   **Tuesday**: Welcome, introducing course subjects, themes, tools needed.
-*   **Thursday**: Discussing "Picked Last" (Santos) and "Introduction" (Levin and Brain), p5js intro (variables, setup/draw)
+*   **Thursday**: Discussing "Picked Last" (Santos) and "Introduction" (Levin and Brain), p5js intro (variables, setup/draw), git part 1.
 *   **Sunday**:  
     * Due: Weekly documentation/reflection.
     * Due: By now you should have registered an account on p5js and github (or gitlab, et al.)
