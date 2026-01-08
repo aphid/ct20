@@ -125,14 +125,14 @@ Design a “visual clock” that displays a novel or unconventional representati
 
 You are encouraged to question basic assumptions about how time is mediated and
 represented. Ponder concepts like biological time (chronobiology), ultradian and infradian rhythms, solar and lunar cycles, celestial time and sidereal time, decimal time, metric time, geological time, historical time, psychological
-time, and subjective time. Inform your design by reading about the history of timekeeping systems and devices and their transformative effects on society.
+time, \[[queer time](https://library.oapen.org/bitstream/handle/20.500.12657/93357/external_content.pdf?sequence=1&isAllowed=y), [crip time](https://dsq-sds.org/article/id/1565/), and [slug time](https://www.ucsc.edu/campus/mascot/)\]and subjective time. Inform your design by reading about the history of timekeeping systems and devices and their transformative effects on society.
 
-_Prompt from **Code as Creative Medium** by Golan Levin and Tega Brain_
+_Prompt from **Code as Creative Medium** by Golan Levin and Tega Brain_ **(my edits in brackets)**
 
 
 ### Recombination
 
-Take an existing media object or artwork and, using code, transform it in signficant ways that make it your own. This can involve (mis)translation, parody, collage, excerpting, recontextualization, justaposition...
+Take an existing media object or artwork and, using code, transform it in signficant ways that make it your own. This can involve (mis)translation, parody, collage, excerpting, recontextualization, and/or justaposition.
 
 ### Research
 
