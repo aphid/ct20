@@ -170,6 +170,8 @@ Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be work
 *   **Thursday**: Discussing "Picked Last" (Santos) and "Introduction" (Levin and Brain), p5js intro (variables, setup/draw)
 *   **Sunday**:  
     * Due: Weekly documentation/reflection.
+    * Due: By now you should have registered an account on p5js and github (or gitlab, et al.)
+    * Due: Post an intro on the chatroom; include a link to your p5js account and your  github page.
 
 
 ## Week 2: **point()** p5js (continued) (Jan 12-18)
