@@ -20,13 +20,14 @@ An up to date version of this syllabus can be found at: https://aphid.github.io/
 *   **Teaching Assistant:** 
     *   **Name:** Lilly Selzer (she/her)
     *   **Email:** [lselzer@ucsc.edu](mailto:lselzer@ucsc.edu)
-    *   **Office Hours:** Thurs from 10-11. **link tbd**
+    *   **Office Hours:** Thurs from 10-11. 
 
 ## Quick Links
 
 *   **[Course Canvas](https://canvas.ucsc.edu/courses/89850)**
 *   **[Course Zoom](https://canvas.ucsc.edu/courses/89850/external_tools/6680)**
 *   **[Readings](https://canvas.ucsc.edu/courses/89850/files)**
+*   **[Office Hour Info](https://canvas.ucsc.edu/courses/89850/modules)** (zoom links here)
 
 ## Course Description
 
