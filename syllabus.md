@@ -110,9 +110,9 @@ When coworking (something we'll be doing quite a bit of), you don't need to shar
 
 ## Course Assignments
 
-There are four assignments in the course, which are due week 3, week 5, week 7, and week 10. The order in which you complete the assignments is up to you. There is also a final exam.
+There are three assignments in the course, which are due week 4, week 7 and week 10. The order in which you complete the assignments is up to you.
 
-In addition to assignments there are ungraded exercises that build from resources (videos, talkthroughs, and readings) and in-class lectures/demonstrations. While exercises are ungraded, they can  constitute a portion of your participation grade.
+In addition to assignments there are ungraded exercises that build from resources (videos, talkthroughs, and readings) and in-class lectures/demonstrations. While exercises are ungraded, they constitute a portion of your participation grade.
 
 ### Weekly Documentation/Reflections
 
@@ -197,6 +197,7 @@ Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be work
 *   **Readings/Viewings**
     * Read:
         * "Iteration" in _Coding as Creative Medium_ (pg 153-154)
+        * __[Software Structures)[https://artport.whitney.org/commissions/software-structures-2016//text.html]__ by Casey Reas
     * Video Tutorials (via The Coding Train):
         * [Nesting loops](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/4-loops/2-nested)
         * [Functions](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/5-functions/1-basics)
@@ -207,53 +208,54 @@ Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be work
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
 
-## Week 4: **loadJSON()** p5js (continued) (Jan 26 - Feb 1)
-*   **Tuesday**: data
-*   **Thursday**: data (continued)
+## Week 4: **shape()** p5js (continued) (Jan 26 - Feb 1)
+*   __Readings__: TK
+*   **Tuesday**: Lilly: blender\<-\>p5js
+*   **Thursday**: Lilly: p5js\<-\>blender
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
-    * Due: Assignment (any of four)
+    * Due: Assignment (__any of three__)
 
 
 ## Week 5: \<!doctype html\> js & dom (Feb 2 - Feb 8)
-*   **Tuesday**: DOM crash course
-*   **Thursday**: more js
+*   **Tuesday**: Exiting (and returning to) the sandbox; DOM crash course
+*   **Thursday**: more html & js
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
 
 
-## Week 6: \<video\> js & dom (Feb 9 - Feb 15)
-*   **Tuesday**: DOM crash course
-*   **Thursday**: more js
+## Week 6: \[\{"data": ...\}\] json (Feb 9 - Feb 15)
+*   **Tuesday**: working with JSON/data
+*   **Thursday**: working with JSON/data
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
 
 
-## Week 7: const ; TBD (Feb 16 - Feb 21)
-*   **Tuesday**: DOM crash course
-*   **Thursday**: more js
+## Week 7: .addEventListener() ; TBD (Feb 16 - Feb 21)
+*   **Tuesday**: timed media, events, (a)synchrony
+*   **Thursday**: timed media, events, (a)synchrony, cont'd
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
-    * Due: Assignment (any of four)
+    * Due: Assignment (any of three)
 
 ## Week 8: \<marquee\> TBD (Feb 23 - Mar 1)
-*   **Tuesday**: DOM crash course
-*   **Thursday**: more   js
+*   **Tuesday**: returning to \<canvas\>
+*   **Thursday**: WEBGL mode
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
 
 ## Week 9: ??? TBD (Mar 2 - Mar 8)
-*   **Tuesday**: DOM crash course
-*   **Thursday**: more js
+*   **Tuesday**: TBD based on class interests
+*   **Thursday**: TBD based on class interests
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
 
 ## Week 10: ??? TBD (Mar 9 - Mar 15)
-*   **Tuesday**: DOM crash course
-*   **Thursday**: more js
+*   **Tuesday**: TBD based on class interests
+*   **Thursday**: TBD based on class interests
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
-    * Due: Assignment (any of four)
+    * Due: Assignment (any of three)
 
 
 ## Finals Week: Wednesday, Mar 18 12:00–3:00 p.m.
