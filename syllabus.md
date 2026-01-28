@@ -209,7 +209,9 @@ Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be work
     * Due: Weekly documentation/reflection.
 
 ## Week 4: **shape()** p5js (continued) (Jan 26 - Feb 1)
-*   __Readings__: TK
+*   __Readings__:
+    * Read:
+      * **optional** "Model Objects: The Utah Teapot as Standard and Icon" from Jacob Gaboury's _Image Objects: An Archaeology of Computer Graphics_ (p 87. in the pdf)
 *   **Tuesday**: Lilly: blender\<-\>p5js
 *   **Thursday**: Lilly: p5js\<-\>blender
 *   **Sunday**: 
