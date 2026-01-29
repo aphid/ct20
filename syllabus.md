@@ -220,7 +220,12 @@ Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be work
 
 
 ## Week 5: \<!doctype html\> js & dom (Feb 2 - Feb 8)
-*   **Tuesday**: Exiting (and returning to) the sandbox; DOM crash course
+*   __Readings__: 
+    * [Vernacular Web 2](http://contemporary-home-computing.org/vernacular-web-2/) by Olia Lialina
+*   __Explore__:
+    * [One Terabyte of Kilobyte Age](https://blog.geocities.institute/)
+    * [Neocities](https://neocities.org/browse)
+*   **Tuesday**: net art (and net.art); exiting (and returning to) the sandbox; DOM crash course
 *   **Thursday**: more html & js
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
