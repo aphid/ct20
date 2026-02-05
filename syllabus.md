@@ -225,6 +225,8 @@ Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be work
 *   __Explore__:
     * [One Terabyte of Kilobyte Age](https://blog.geocities.institute/)
     * [Neocities](https://neocities.org/browse)
+*   __Video Tutorials (via The Coding Train)__:
+    * [GitHub for Poets](https://thecodingtrain.com/tracks/git-and-github-for-poets/git/1-fundamentals/1-intro) (first part most important, refer to the rest as needed)
 *   **Tuesday**: net art (and net.art); exiting (and returning to) the sandbox; DOM crash course
 *   **Thursday**: more html & js
 *   **Sunday**: 
