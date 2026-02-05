@@ -230,7 +230,7 @@ Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be work
 *   **Tuesday**: net art (and net.art); exiting (and returning to) the sandbox; DOM crash course
 *   **Thursday**: more html & js
 *   **Sunday**: 
-    * Due: Weekly documentation/reflection.
+    * Due: MID-QUARTER REFLECTION, it's a google form in the assignments section.
 
 
 ## Week 6: \[\{"data": ...\}\] json (Feb 9 - Feb 15)
