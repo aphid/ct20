@@ -1,0 +1,16 @@
+html, body {
+  margin: 5px;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+  border: 3px solid pink;
+  margin: 10px;
+}
+
+p { color: green;
+    background: rgba(0,0,255,0.5);
+  
+  }
+
