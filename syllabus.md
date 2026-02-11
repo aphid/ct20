@@ -233,29 +233,34 @@ Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be work
     * Due: MID-QUARTER REFLECTION, it's a google form in the assignments section.
 
 
-## Week 6: \[\{"data": ...\}\] json (Feb 9 - Feb 15)
+## Week 6: \<marquee\> (Feb 9 - Feb 15)
+*   **Tuesday**: reinforcing html/css/dom
+*   **Thursday**: reinforcing html/css/dom
+*   **Sunday**: 
+    * Due: Weekly documentation/reflection.
+
+
+## Week 7: \[\{"data": ...\}\] json  (Feb 16 - Feb 21)
+*   __Readings__:
+    * [A Sea of Data: Apophenia and Pattern (Mis-)recognition](https://www.e-flux.com/journal/72/60480/a-sea-of-data-apophenia-and-pattern-mis-recognition) by Hito Steyerl
+*   __Video Tutorials (via The Coding Train)__:
+    * [What is JSON? Part 1](https://www.youtube.com/watch?v=_NFkzw6oFtQ)
 *   **Tuesday**: working with JSON/data
 *   **Thursday**: working with JSON/data
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
+    * Due: Assignment (any of three)
 
 
-## Week 7: .addEventListener() ; TBD (Feb 16 - Feb 21)
+## Week 8:  .addEventListener() ; (Feb 23 - Mar 1)
 *   **Tuesday**: timed media, events, (a)synchrony
 *   **Thursday**: timed media, events, (a)synchrony, cont'd
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
-    * Due: Assignment (any of three)
-
-## Week 8: \<marquee\> TBD (Feb 23 - Mar 1)
-*   **Tuesday**: returning to \<canvas\>
-*   **Thursday**: WEBGL mode
-*   **Sunday**: 
-    * Due: Weekly documentation/reflection.
 
 ## Week 9: ??? TBD (Mar 2 - Mar 8)
-*   **Tuesday**: TBD based on class interests
-*   **Thursday**: TBD based on class interests
+*   **Tuesday**: returning to \<canvas\>
+*   **Thursday**: WEBGL mode
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
 
