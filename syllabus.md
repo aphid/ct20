@@ -47,8 +47,8 @@ Learn strategies for bringing complex work to completion, individually and colla
 
 * **Attendance and Participation**: 20%
 * **Weekly Documentation/Updates**: 20%
-* **Projects (4)**: 10% ea (40%)
-* **Exam**: 20%
+* **Projects (3)**: ~13% ea (40%)
+* **Code Review**: 20%
 
 ## Grading Policy/Assessment
 
@@ -136,19 +136,15 @@ _Prompt from **Code as Creative Medium** by Golan Levin and Tega Brain_ **(my ed
 Take an existing media object or artwork and, using code, transform it in signficant ways that make it your own. This can involve (mis)translation, parody, collage, excerpting, recontextualization, and/or justaposition.
 
 
-### ~~Research~~
-
-~~Select an existing work of creative code that was made prior to 2021 and in  approximately 1000 words, analyze the work. This analysis should include some understanding (through looking at source code if available, and/or informed speculation) the mechanics of the software in addition to the piece's meaning and how you experienced it. You are welcome to include screenshots. Please format this research in the markdown (.md) format. (You may also choose to 'recombine' this work for that assignment)~~ **Note: This assignment will be moved to an in-class exercise later in the quarter.**
-
 ### ???
 
 Pick any assignment from _Code as Creative Medium_ (in the files section) 
 
 OR write your own assignment prompt and follow it (to be approved by Teaching Assistant or Instructor)
 
-## Final Exam
+## Code Review
 
-The final exam will be a short one-on-one virtual meeting with the instructor or teaching assistant in which you will walk through the code of one of your assignments and answer questions about it.
+At some point beginning with week 8, you will meet with the instructor or teaching assistant and be prepared to discuss one of the projects you have turned in. During this short (~20m) one-on-one virtual meeting, you will walk through the code of one of your assignments and answer questions about it.
 
 ## Course Schedule
 
