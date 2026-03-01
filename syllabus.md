@@ -146,6 +146,8 @@ OR write your own assignment prompt and follow it (to be approved by Teaching As
 
 At some point beginning with week 8, you will meet with the instructor or teaching assistant and be prepared to discuss one of the projects you have turned in. During this short (~20m) one-on-one virtual meeting, you will walk through the code of one of your assignments and answer questions about it.
 
+You can find links to sign up on Canvas under Announcements.
+
 ## Course Schedule
 
 We will be meeting twice a week on zoom. We'll be spending about half the time learning and discussing and half the time coworking. 
@@ -253,23 +255,26 @@ Next quarter, in CT 120, we'll continue with JS, HTML5, and CSS and also be work
 *   **Thursday**: timed media, events, (a)synchrony, cont'd
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
+    * Reminder: Sign up for [Code Review](#code-review)
 
-## Week 9: ??? TBD (Mar 2 - Mar 8)
-*   **Tuesday**: returning to \<canvas\>
-*   **Thursday**: WEBGL mode
+## Week 9: Co-working (Mar 2 - Mar 8)
+*   **Tuesday**: Project development
+*   **Thursday**: Project development continued
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
+    * Reminder: Sign up for [Code Review](#code-review)
+
 
 ## Week 10: ??? TBD (Mar 9 - Mar 15)
-*   **Tuesday**: TBD based on class interests
-*   **Thursday**: TBD based on class interests
+*   **Tuesday**: WIP (Works in Progress) week!
+*   **Thursday**: WIP (Works in Progress) continued!
 *   **Sunday**: 
     * Due: Weekly documentation/reflection.
-    * Due: Assignment (any of three)
+    * Reminder: Sign up for [Code Review](#code-review)
 
-
-## Finals Week: Wednesday, Mar 18 12:00–3:00 p.m.
-*   **Oral exams, signups TBD**
+## Finals Week: 
+*   Due: Third Project (whichever one you haven't done yet). Due Wednesday, Mar 18 3:00 p.m.
+*   Reminder: Have completed [Code Review](#code-review) by end of finals week
 
 
 -----
